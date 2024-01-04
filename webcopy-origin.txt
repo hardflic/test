@@ -1,0 +1,1356 @@
+Uri: https://c0.wp.com/c/6.4.1/wp-includes/css/dist/block-library/style.min.css
+File Name: C:\Downloaded Web Sites\iptvswift.store\c\6.4.1\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/c/6.4.1/wp-includes/js/dist/hooks.min.js
+File Name: C:\Downloaded Web Sites\iptvswift.store\c\6.4.1\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/c/6.4.1/wp-includes/js/dist/i18n.min.js
+File Name: C:\Downloaded Web Sites\iptvswift.store\c\6.4.1\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/c/6.4.1/wp-includes/js/dist/vendor/regenerator-runtime.min.js
+File Name: C:\Downloaded Web Sites\iptvswift.store\c\6.4.1\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/c/6.4.1/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js
+File Name: C:\Downloaded Web Sites\iptvswift.store\c\6.4.1\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/c/6.4.1/wp-includes/js/dist/vendor/wp-polyfill.min.js
+File Name: C:\Downloaded Web Sites\iptvswift.store\c\6.4.1\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/c/6.4.1/wp-includes/js/imagesloaded.min.js
+File Name: C:\Downloaded Web Sites\iptvswift.store\c\6.4.1\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/c/6.4.1/wp-includes/js/jquery/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\iptvswift.store\c\6.4.1\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/c/6.4.1/wp-includes/js/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\iptvswift.store\c\6.4.1\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/c/6.4.1/wp-includes/js/jquery/ui/core.min.js
+File Name: C:\Downloaded Web Sites\iptvswift.store\c\6.4.1\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://c0.wp.com/c/6.4.1/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
+File Name: C:\Downloaded Web Sites\iptvswift.store\c\6.4.1\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/c/6.4.1/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\iptvswift.store\c\6.4.1\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://c0.wp.com/c/6.4.1/wp-includes/js/mediaelement/wp-mediaelement.min.css
+File Name: C:\Downloaded Web Sites\iptvswift.store\c\6.4.1\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/p/jetpack/12.3/css/jetpack.css
+File Name: C:\Downloaded Web Sites\iptvswift.store\p\jetpack\12.3\css\jetpack.css
+Content Type: text/css
+
+Uri: https://c0.wp.com/p/jetpack/12.3/modules/shortcodes/images/collapse.png
+File Name: C:\Downloaded Web Sites\iptvswift.store\p\jetpack\12.3\modules\shortcodes\images\collapse.png
+Content Type: image/png
+
+Uri: https://c0.wp.com/p/jetpack/12.3/modules/shortcodes/images/expand.png
+File Name: C:\Downloaded Web Sites\iptvswift.store\p\jetpack\12.3\modules\shortcodes\images\expand.png
+Content Type: image/png
+
+Uri: https://c0.wp.com/p/jetpack/12.3/modules/shortcodes/images/slide-nav.png
+File Name: C:\Downloaded Web Sites\iptvswift.store\p\jetpack\12.3\modules\shortcodes\images\slide-nav.png
+Content Type: image/png
+
+Uri: https://c0.wp.com/p/jetpack/12.3/modules/shortcodes/img/slideshow-controls-2x.png
+File Name: C:\Downloaded Web Sites\iptvswift.store\p\jetpack\12.3\modules\shortcodes\img\slideshow-controls-2x.png
+Content Type: image/png
+
+Uri: https://c0.wp.com/p/jetpack/12.3/modules/shortcodes/img/slideshow-controls.png
+File Name: C:\Downloaded Web Sites\iptvswift.store\p\jetpack\12.3\modules\shortcodes\img\slideshow-controls.png
+Content Type: image/png
+
+Uri: https://client.crisp.chat/l.js?ver=6.4.1
+File Name: C:\Downloaded Web Sites\iptvswift.store\l.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Lato&ver=6.4.1
+File Name: C:\Downloaded Web Sites\iptvswift.store\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lato:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.4.1
+File Name: C:\Downloaded Web Sites\iptvswift.store\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Open+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lato:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.4.1
+File Name: C:\Downloaded Web Sites\iptvswift.store\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\lato\v24\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\lato\v24\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\lato\v24\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\lato\v24\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\lato\v24\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\lato\v24\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\lato\v24\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\lato\v24\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\lato\v24\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\lato\v24\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\opensans\v36\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\opensans\v36\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\opensans\v36\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\opensans\v36\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\opensans\v36\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\opensans\v36\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk_RkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjr0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v36/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\opensans\v36\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/1-1.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/10.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\10.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/11-1.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/12.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\12.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/13.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\13.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/14.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\14.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/15.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\15.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/16.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\16.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/17.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\17.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/18.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\18.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/19.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\19.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/2.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/20.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\20.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/21.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\21.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/22.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\22.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/23.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\23.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/24.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\24.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/25.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\25.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/26.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\26.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/28.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\28.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/3.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\3.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/4.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\4.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/5.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\5.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/7.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\7.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/8.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\8.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/9.jpg?fit=768%2C364&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\9.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/CNN-2048x656-1.png?fit=300%2C96&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\CNN-2048x656-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/Dashboard-1024x473-1.png?resize=300%2C139&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\Dashboard-1024x473-1-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/Dashboard-1024x473-1.png?resize=768%2C355&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\Dashboard-1024x473-1-3.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/Dashboard-1024x473-1.png?resize=800%2C370&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\Dashboard-1024x473-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/Dashboard-1024x473-1.png?w=1024&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\Dashboard-1024x473-1-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-10.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-10-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-10.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-10.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-10.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-10-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-11.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-11-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-11.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-11.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-11.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-11-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-12.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-12-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-12.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-12.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-12.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-12-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-13.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-13-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-13.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-13.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-13.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-13-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-14-1.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-14-1-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-14-1.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-14-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-14-1.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-14-1-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-2-1.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-2-1-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-2-1.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-2-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-2-1.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-2-1-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-2.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-2-3.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-2.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-2.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-2-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-4.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-4-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-4.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-4.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-4.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-4-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-5.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-5-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-5.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-5.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-5.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-5-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-6.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-6-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-6.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-6.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-6.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-6-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-8.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-8-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-8.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-8.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-8.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-8-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-9.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-9-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-9.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-9.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/downloader-on-firestick-new-interface-9.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\downloader-on-firestick-new-interface-9-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/ESPN-2048x656-1.png?fit=300%2C96&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\ESPN-2048x656-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/httpline.4k-turbo.comc-1-2-768x432-1.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\httpline.4k-turbo.comc-1-2-768x432-1-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/httpline.4k-turbo.comc-1-2-768x432-1.png?resize=768%2C432&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\httpline.4k-turbo.comc-1-2-768x432-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/httpline.4k-turbo.comc-1-2-768x432-1.png?w=768&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\httpline.4k-turbo.comc-1-2-768x432-1-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/iptv-smarters-2.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\iptv-smarters-2-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/iptv-smarters-2.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\iptv-smarters-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/iptv-smarters-2.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\iptv-smarters-2-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/iptv-smarters-3.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\iptv-smarters-3-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/iptv-smarters-3.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\iptv-smarters-3.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/iptv-smarters-3.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\iptv-smarters-3-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/iptv-smarters-4.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\iptv-smarters-4-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/iptv-smarters-4.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\iptv-smarters-4.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/iptv-smarters-4.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\iptv-smarters-4-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/launch-downloader-app.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\launch-downloader-app-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/launch-downloader-app.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\launch-downloader-app.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/launch-downloader-app.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\launch-downloader-app-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/login-1024x473-1.png?resize=300%2C139&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\login-1024x473-1-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/login-1024x473-1.png?resize=768%2C355&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\login-1024x473-1-3.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/login-1024x473-1.png?resize=800%2C370&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\login-1024x473-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/login-1024x473-1.png?w=1024&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\login-1024x473-1-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/MAC-ADDRESS.png?resize=300%2C141&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\MAC-ADDRESS-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/MAC-ADDRESS.png?resize=768%2C360&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\MAC-ADDRESS-3.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/MAC-ADDRESS.png?resize=800%2C375&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\MAC-ADDRESS.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/MAC-ADDRESS.png?w=898&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\MAC-ADDRESS-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/mobdro-firestick-4.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\mobdro-firestick-4-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/mobdro-firestick-4.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\mobdro-firestick-4.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/mobdro-firestick-4.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\mobdro-firestick-4-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/mobdro-firestick-5.png?resize=300%2C169&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\mobdro-firestick-5-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/mobdro-firestick-5.png?resize=750%2C422&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\mobdro-firestick-5.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/mobdro-firestick-5.png?w=750&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\mobdro-firestick-5-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/pngegg-4-2048x656-1.png?fit=300%2C96&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\pngegg-4-2048x656-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/pngegg-6.png?fit=300%2C172&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\pngegg-6.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/PPV-live-2048x656-1.png?fit=300%2C96&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\PPV-live-2048x656-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/Skyy-2048x656-1.png?fit=300%2C96&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\Skyy-2048x656-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/swift-logo.png?fit=800%2C400&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\swift-logo.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/swift-logo.png?resize=300%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\swift-logo-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/swift-logo.png?resize=768%2C384&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\swift-logo-3.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/swift-logo.png?w=800&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\swift-logo-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/swifty-pro-fav.png?fit=180%2C180&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\swifty-pro-fav-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/swifty-pro-fav.png?fit=192%2C192&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\swifty-pro-fav-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/swifty-pro-fav.png?fit=32%2C32&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\swifty-pro-fav.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/TiviMate-Firestick-APK-scaled-1-768x346-1.jpg?resize=300%2C135&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\TiviMate-Firestick-APK-scaled-1-768x346-1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/TiviMate-Firestick-APK-scaled-1-768x346-1.jpg?resize=768%2C346&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\TiviMate-Firestick-APK-scaled-1-768x346-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2022/11/TiviMate-Firestick-APK-scaled-1-768x346-1.jpg?w=768&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2022\11\TiviMate-Firestick-APK-scaled-1-768x346-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/02/9F783690-7103-4C9B-A6F8-DECE1F21D677-pdrx8ko514nhvzt6k6dyiv1p1hclx3cmeenb3ygzpa.jpeg?fit=509%2C755&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\02\9F783690-7103-4C9B-A6F8-DECE1F21D677-pdrx8ko514nhvzt6k6dyiv1p1hclx3cmeenb3ygzpa.jpeg
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/02/cbsll.png?fit=300%2C96&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\02\cbsll.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/02/fox.png?fit=300%2C96&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\02\fox.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/03/images.webp?fit=1175%2C1763&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\03\images.webp
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/04/Untitled-design-69-300x300-removebg-preview-150x150-1.webp?fit=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\04\Untitled-design-69-300x300-removebg-preview-150x150-1.webp
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/04/Untitled-design-71-300x300-removebg-preview-150x150-1.webp?fit=150%2C150&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\04\Untitled-design-71-300x300-removebg-preview-150x150-1.webp
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/06/across_the_spider-verse.webp?fit=776%2C1120&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\06\across_the_spider-verse.webp
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/06/images-1-1.webp?fit=728%2C1080&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\06\images-1-1.webp
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/06/images-1.webp?fit=1175%2C1763&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\06\images-1.webp
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/07/1515.webp?fit=1175%2C1763&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\07\1515.webp
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/07/fefegvzsg.webp?fit=638%2C960&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\07\fefegvzsg.webp
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/07/FvUVt3hXgAAxP1H.webp?fit=569%2C900&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\07\FvUVt3hXgAAxP1H.webp
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/07/images-1.webp?fit=1175%2C1763&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\07\images-1.webp
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/07/MV5BMjFlMDA2ZmUtYjE2OC00ZmYzLTg3MDYtODY4MGU3NzRhMzNhXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_FMjpg_UX1000__1.webp?fit=1000%2C1777&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\07\MV5BMjFlMDA2ZmUtYjE2OC00ZmYzLTg3MDYtODY4MGU3NzRhMzNhXkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_FMjpg_UX1000__1.webp
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/09/468945.png?fit=300%2C96&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\09\468945.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/09/egvsgsd.webp?fit=1175%2C1763&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\09\egvsgsd.webp
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/09/gsqdeg.webp?fit=1175%2C1763&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\09\gsqdeg.webp
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/09/images.webp?fit=1175%2C1763&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\09\images.webp
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/09/MV5BNTY1ZTYzN2ItNzQ4NS00ZmM1LWEzODEtMTM1YzNmNThmY2MxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.webp?fit=1000%2C1481&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\09\MV5BNTY1ZTYzN2ItNzQ4NS00ZmM1LWEzODEtMTM1YzNmNThmY2MxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.webp
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/09/p20607386_b_v12_ab-scaled.webp?fit=1707%2C2560&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\09\p20607386_b_v12_ab-scaled.webp
+Content Type: image/jpeg
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/09/pngwing.com-1.png?fit=300%2C300&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\09\pngwing.com-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/olursuts/2023/09/Untitled-1541.png?fit=300%2C96&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\olursuts\2023\09\Untitled-1541.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/wp-content/uploads/2022/11/hero-1.png?fit=2048%2C1152&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\wp-content\uploads\2022\11\hero-1.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/iptvswift.store/wp-content/uploads/2023/09/hero-2.png?fit=2048%2C1152&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\iptvswift.store\wp-content\uploads\2023\09\hero-2.png
+Content Type: image/png
+
+Uri: https://i0.wp.com/view-max.store/wp-content/uploads/2022/11/hero-1.png?fit=2048%2C1152&ssl=1
+File Name: C:\Downloaded Web Sites\iptvswift.store\view-max.store\wp-content\uploads\2022\11\hero-1.png
+Content Type: image/png
+
+Uri: https://iptvswift.store/
+File Name: C:\Downloaded Web Sites\iptvswift.store\index.htm
+Content Type: text/html
+
+Uri: https://iptvswift.store/?-8is7zf
+File Name: C:\Downloaded Web Sites\iptvswift.store\index-1.htm
+Content Type: text/html
+
+Uri: https://iptvswift.store/channels-list/
+File Name: C:\Downloaded Web Sites\iptvswift.store\channels-list\index.htm
+Content Type: text/html
+
+Uri: https://iptvswift.store/comments/feed/
+File Name: C:\Downloaded Web Sites\iptvswift.store\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://iptvswift.store/contact/
+File Name: C:\Downloaded Web Sites\iptvswift.store\contact\index.htm
+Content Type: text/html
+
+Uri: https://iptvswift.store/faq/
+File Name: C:\Downloaded Web Sites\iptvswift.store\faq\index.htm
+Content Type: text/html
+
+Uri: https://iptvswift.store/feed/
+File Name: C:\Downloaded Web Sites\iptvswift.store\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://iptvswift.store/installation-guide/
+File Name: C:\Downloaded Web Sites\iptvswift.store\installation-guide\index.htm
+Content Type: text/html
+
+Uri: https://iptvswift.store/olursuts/elementor/css/global.css?ver=1694878570
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/olursuts/elementor/css/post-12.css?ver=1694911363
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\css\post-12.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/olursuts/elementor/css/post-17.css?ver=1694879686
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\css\post-17.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/olursuts/elementor/css/post-2267.css?ver=1694879381
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\css\post-2267.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/olursuts/elementor/css/post-33.css?ver=1694878570
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\css\post-33.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/olursuts/elementor/css/post-34.css?ver=1694911267
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\css\post-34.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/olursuts/elementor/css/post-453.css?ver=1694911514
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\css\post-453.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/olursuts/elementor/css/post-454.css?ver=1694879691
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\css\post-454.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/olursuts/elementor/css/post-455.css?ver=1694911715
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\css\post-455.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/olursuts/elementor/css/post-456.css?ver=1694911636
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\css\post-456.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/olursuts/elementor/css/post-47.css?ver=1694878571
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\css\post-47.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/olursuts/elementor/css/post-5256.css?ver=1695729854
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\css\post-5256.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/olursuts/elementor/css/post-677.css?ver=1694879488
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\css\post-677.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/olursuts/elementor/css/post-8.css?ver=1695730668
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\css\post-8.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/olursuts/elementor/custom-icons/epg/css/epg.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\custom-icons\epg\css\epg.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/olursuts/elementor/custom-icons/epg/font/epg.eot?66180135
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\custom-icons\epg\font\epg.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iptvswift.store/olursuts/elementor/custom-icons/epg/font/epg.svg?66180135
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\custom-icons\epg\font\epg.svg
+Content Type: image/svg+xml
+
+Uri: https://iptvswift.store/olursuts/elementor/custom-icons/epg/font/epg.ttf?66180135
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\custom-icons\epg\font\epg.ttf
+Content Type: font/ttf
+
+Uri: https://iptvswift.store/olursuts/elementor/custom-icons/epg/font/epg.woff2?66180135
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\custom-icons\epg\font\epg.woff2
+Content Type: font/woff2
+
+Uri: https://iptvswift.store/olursuts/elementor/custom-icons/epg/font/epg.woff?66180135
+File Name: C:\Downloaded Web Sites\iptvswift.store\olursuts\elementor\custom-icons\epg\font\epg.woff
+Content Type: font/woff
+
+Uri: https://iptvswift.store/order-cancellation/
+File Name: C:\Downloaded Web Sites\iptvswift.store\order-cancellation\index.htm
+Content Type: text/html
+
+Uri: https://iptvswift.store/oweveeft/assets/js/hello-frontend.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\iptvswift.store\oweveeft\assets\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://iptvswift.store/oweveeft/style.min.css?ver=2.7.1
+File Name: C:\Downloaded Web Sites\iptvswift.store\oweveeft\style.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/oweveeft/theme.min.css?ver=2.7.1
+File Name: C:\Downloaded Web Sites\iptvswift.store\oweveeft\theme.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/privacy-policy/
+File Name: C:\Downloaded Web Sites\iptvswift.store\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://iptvswift.store/refund-policy/
+File Name: C:\Downloaded Web Sites\iptvswift.store\refund-policy\index.htm
+Content Type: text/html
+
+Uri: https://iptvswift.store/shipping-policy/
+File Name: C:\Downloaded Web Sites\iptvswift.store\shipping-policy\index.htm
+Content Type: text/html
+
+Uri: https://iptvswift.store/uwhiwhyk/chaty/css/chaty-front.min.css?ver=3.1.21680308754
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\chaty\css\chaty-front.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/chaty/images/header-bottom.png
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\chaty\images\header-bottom.png
+Content Type: image/png
+
+Uri: https://iptvswift.store/uwhiwhyk/chaty/images/header-top.png
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\chaty\images\header-top.png
+Content Type: image/png
+
+Uri: https://iptvswift.store/uwhiwhyk/chaty/images/whatsapp.png
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\chaty\images\whatsapp.png
+Content Type: image/png
+
+Uri: https://iptvswift.store/uwhiwhyk/chaty/js/cht-front-script.min.js?ver=3.1.21680308754
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\chaty\js\cht-front-script.min.js
+Content Type: application/javascript
+
+Uri: https://iptvswift.store/uwhiwhyk/cookie-law-info/lite/frontend/js/script.min.js?ver=3.1.1
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\cookie-law-info\lite\frontend\js\script.min.js
+Content Type: application/javascript
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor-pro/assets/css/frontend-lite.min.css?ver=3.7.7
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor-pro/assets/css/widget-carousel.min.css
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor-pro\assets\css\widget-carousel.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor-pro/assets/css/widget-nav-menu.min.css
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor-pro\assets\css\widget-nav-menu.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor-pro/assets/js/frontend.min.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.7
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/css/frontend-lite.min.css?ver=3.13.4
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/css/widget-icon-box.min.css
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/js/frontend-modules.min.js?ver=3.13.4
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/js/frontend.min.js?ver=3.13.4
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/js/webpack.runtime.min.js?ver=3.13.4
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/animations/animations.min.css?ver=3.13.4
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.20.0
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/eicons/fonts/eicons.eot?5.20.0
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/eicons/fonts/eicons.svg?5.20.0
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/eicons/fonts/eicons.ttf?5.20.0
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/eicons/fonts/eicons.woff2?5.20.0
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/eicons/fonts/eicons.woff?5.20.0
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\swiper\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/css/exad-styles.min.css?ver=6.4.1
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\css\exad-styles.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/fonts/exad-logo.eot?1gib8x
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\fonts\exad-logo.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/fonts/exad-logo.svg?1gib8x
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\fonts\exad-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/fonts/exad-logo.ttf?1gib8x
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\fonts\exad-logo.ttf
+Content Type: font/ttf
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/fonts/exad-logo.woff?1gib8x
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\fonts\exad-logo.woff
+Content Type: font/woff
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/fonts/remix-icon/remixicon.eot?t=1590207869815
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\fonts\remix-icon\remixicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/fonts/remix-icon/remixicon.min.css?ver=2.6.5
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\fonts\remix-icon\remixicon.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/fonts/remix-icon/remixicon.svg?t=1590207869815
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\fonts\remix-icon\remixicon.svg
+Content Type: image/svg+xml
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/fonts/remix-icon/remixicon.ttf?t=1590207869815
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\fonts\remix-icon\remixicon.ttf
+Content Type: font/ttf
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/fonts/remix-icon/remixicon.woff2?t=1590207869815
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\fonts\remix-icon\remixicon.woff2
+Content Type: font/woff2
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/fonts/remix-icon/remixicon.woff?t=1590207869815
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\fonts\remix-icon\remixicon.woff
+Content Type: font/woff
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/js/exad-scripts.min.js?ver=2.6.5
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\js\exad-scripts.min.js
+Content Type: application/javascript
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/vendor/css/imagehover.css?ver=6.4.1
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\vendor\css\imagehover.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/vendor/css/slick-theme.min.css?ver=6.4.1
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\vendor\css\slick-theme.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/vendor/css/slick.min.css?ver=6.4.1
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\vendor\css\slick.min.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/vendor/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\vendor\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/vendor/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\vendor\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/vendor/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\vendor\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/vendor/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\vendor\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/vendor/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\vendor\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://iptvswift.store/uwhiwhyk/exclusive-addons-for-elementor/assets/vendor/js/jquery.sticky-sidebar.js?ver=2.6.5
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\exclusive-addons-for-elementor\assets\vendor\js\jquery.sticky-sidebar.js
+Content Type: application/javascript
+
+Uri: https://iptvswift.store/uwhiwhyk/jetpack-boost/jetpack_vendor/automattic/jetpack-image-cdn/dist/image-cdn.js?minify=false&ver=132249e245926ae3e188
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\jetpack-boost\jetpack_vendor\automattic\jetpack-image-cdn\dist\image-cdn.js
+Content Type: application/javascript
+
+Uri: https://iptvswift.store/uwhiwhyk/jetpack/jetpack_vendor/automattic/jetpack-videopress/build/block-editor/blocks/video/view.css?minify=false&ver=34ae973733627b74a14e
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\jetpack\jetpack_vendor\automattic\jetpack-videopress\build\block-editor\blocks\video\view.css
+Content Type: text/css
+
+Uri: https://iptvswift.store/uwhiwhyk/wp-hide-security-enhancer/assets/js/devtools-detect.js?ver=6.4.1
+File Name: C:\Downloaded Web Sites\iptvswift.store\uwhiwhyk\wp-hide-security-enhancer\assets\js\devtools-detect.js
+Content Type: application/javascript
+
+Uri: https://iptvswift.store/wp-json/
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2F
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2F&format=xml
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Fchannels-list%2F
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Fchannels-list%2F&format=xml
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Ffaq%2F
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Ffaq%2F&format=xml
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Finstallation-guide%2F
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Finstallation-guide%2F&format=xml
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Forder-cancellation%2F
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Forder-cancellation%2F&format=xml
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Fprivacy-policy%2F
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Fprivacy-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Frefund-policy%2F
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Frefund-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Fshipping-policy%2F
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/oembed/1.0/embed?url=https:%2F%2Fiptvswift.store%2Fshipping-policy%2F&format=xml
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://iptvswift.store/wp-json/wp/v2/pages/12
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\wp\v2\pages\12
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/wp/v2/pages/17
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\wp\v2\pages\17
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/wp/v2/pages/2267
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\wp\v2\pages\2267
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/wp/v2/pages/453
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\wp\v2\pages\453
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/wp/v2/pages/454
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\wp\v2\pages\454
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/wp/v2/pages/455
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\wp\v2\pages\455
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/wp/v2/pages/456
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\wp\v2\pages\456
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/wp/v2/pages/677
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\wp\v2\pages\677
+Content Type: application/json
+
+Uri: https://iptvswift.store/wp-json/wp/v2/pages/8
+File Name: C:\Downloaded Web Sites\iptvswift.store\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://secure.gravatar.com/images/grav-share-sprite-2x.png
+File Name: C:\Downloaded Web Sites\iptvswift.store\images\grav-share-sprite-2x.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/images/grav-share-sprite.png
+File Name: C:\Downloaded Web Sites\iptvswift.store\images\grav-share-sprite.png
+Content Type: image/png
+
+Uri: https://shoppy.gg/api/embed.js
+File Name: C:\Downloaded Web Sites\iptvswift.store\api\embed.js
+Content Type: application/javascript
+
+Uri: https://stats.wp.com/e-202346.js
+File Name: C:\Downloaded Web Sites\iptvswift.store\e-202346.js
+Content Type: application/javascript
+
+Uri: https://stats.wp.com/e-202347.js
+File Name: C:\Downloaded Web Sites\iptvswift.store\e-202347.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-11293171098
+File Name: C:\Downloaded Web Sites\iptvswift.store\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.iptvsmarters.com/smarters.apk
+File Name: C:\Downloaded Web Sites\iptvswift.store\smarters.apk
+Content Type: application/vnd.android.package-archive
+

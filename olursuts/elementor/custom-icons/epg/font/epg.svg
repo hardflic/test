@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2023 by original authors @ fontello.com</metadata>
+<defs>
+<font id="epg" horiz-adv-x="1000" >
+<font-face font-family="epg" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="Epg-1" unicode="&#xe801;" d="M124 564h185v-86h-74v-81h70v-81h-70v-94h82v-86h-193v428z m225 0h112c57-1 109-4 123-60 5-18 5-71 5-97 4-95-49-100-129-99v-172h-111v428z m111-73v-109c29-3 36 7 36 38-1 15 3 56-7 64-5 5-14 7-29 7z m416-85h-111c0 20 1 76-3 85-2 7-7 10-15 10-7 0-12-3-14-8-8-20-2-220-4-247 1-25-2-46 19-47 22 1 19 25 20 51 0 0 0 51 0 51h-22v65h130v-230h-70l-10 30c-32-62-127-44-159 8-22 37-18 59-19 109 0 0 0 127 0 127 0 41 2 71 6 89 13 47 66 76 119 74 54 1 106-22 124-68 8-19 10-65 9-99z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
